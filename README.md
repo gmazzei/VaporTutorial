@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/gmazzei/VaporTutorial/master/vapor_logo.png)
+![alt text](https://raw.githubusercontent.com/gmazzei/VaporTutorial/master/vapor.png)
 
 ## Quickstart
 [How to set up a Vapor 3 project](https://medium.com/@martinlasek/tutorial-how-to-set-up-a-vapor-3-project-75466394cf2e)
