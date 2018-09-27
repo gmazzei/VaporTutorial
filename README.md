@@ -1,6 +1,4 @@
-# VaporTutorial
-Tutorial guide for the Vapor framework
-<br/><br/>
+![alt text](https://raw.githubusercontent.com/gmazzei/VaporTutorial/master/vapor_logo.png)
 
 ## Quickstart
 [How to set up a Vapor 3 project](https://medium.com/@martinlasek/tutorial-how-to-set-up-a-vapor-3-project-75466394cf2e)
@@ -30,5 +28,25 @@ Source: [Vapor University](https://vapor.university/?medium=article). Here you w
 Vapor uses [Swift Package Manager](https://swift.org/package-manager/), a tool that automates the process of downloading, compiling and linking dependencies. 
 
 Inside Package.swift you will find all the info related to dependencies. An example is shown below:
+```Swift
 
-<br/>
+// swift-tools-version:4.0
+import PackageDescription
+
+let package = Package(
+    name: "swift-training-backend",
+    dependencies: [
+        .package(url: "https://github.com/vapor/vapor.git", from: "3.0.0"),
+        .package(url: "https://github.com/vapor/fluent-postgresql.git", from: "1.0.0"),
+        .package(url: "https://github.com/vapor-community/pagination.git", from: "1.0.0")
+    ],
+    targets: [
+        .target(name: "App", dependencies: ["Vapor", "FluentPostgreSQL", "Pagination"]),
+        .target(name: "Run", dependencies: ["App"]),
+        .testTarget(name: "AppTests", dependencies: ["App"])
+    ]
+)
+
+```
+
+<br/><br/>
