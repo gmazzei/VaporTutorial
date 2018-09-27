@@ -6,7 +6,7 @@
 [How to set up a Vapor 3 project](https://medium.com/@martinlasek/tutorial-how-to-set-up-a-vapor-3-project-75466394cf2e)
 <br/><br/>
 
-## Main tutorials
+## Main Tutorials
 * [How to write Models using Fluent](https://medium.com/@martinlasek/tutorial-how-to-write-models-using-fluent-e9482d335a5f) <br/>
   Fluent is a Swift ORM framework (queries, models, and relations) for building SQL and NoSQL database integrations.
 
@@ -22,7 +22,7 @@ Source: [Vapor University](https://vapor.university/?medium=article). Here you w
 You can find them [here](https://github.com/gmazzei/VaporTutorial/blob/master/Samples.md).
 <br/><br/>
 
-## Other tutorials
+## Other Tutorials
 * [Deploying to Heroku](https://www.twilio.com/blog/2016/11/how-to-deploy-vapor-apps-to-heroku.html)
 <br/><br/>
 
