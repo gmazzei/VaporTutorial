@@ -6,15 +6,14 @@
 [How to set up a Vapor 3 project](https://medium.com/@martinlasek/tutorial-how-to-set-up-a-vapor-3-project-75466394cf2e)
 <br/><br/>
 
-## Useful tutorials
+## Main tutorials
 * [How to write Models using Fluent](https://medium.com/@martinlasek/tutorial-how-to-write-models-using-fluent-e9482d335a5f) <br/>
   Fluent is a Swift ORM framework (queries, models, and relations) for building SQL and NoSQL database integrations.
 
 * [How to build a Basic Auth](https://medium.com/@martinlasek/tutorial-how-to-build-basic-auth-5e618a656999)
 * [How to build one-to-many relations](https://medium.com/@martinlasek/tutorial-how-to-build-one-to-many-relations-84dd37e464a6)
 * [Write a CRUD API using JSON](https://medium.com/@martinlasek/tutorial-write-a-crud-api-using-json-c1edb1439d8a)
-
-
+<br/>
 
 Source: [Vapor University](https://vapor.university/?medium=article). Here you will find many tutorials regarding the basics of any Vapor project (important: check that the version of Vapor used in the tutorial is Vapor 3).
 <br/><br/>
