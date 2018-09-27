@@ -1,4 +1,4 @@
-# VaporSamples
+# Vapor Samples
 Code samples of the Vapor framework.
 <br/><br/>
 
