@@ -18,6 +18,10 @@
 Source: [Vapor University](https://vapor.university/?medium=article). Here you will find many tutorials regarding the basics of any Vapor project (important: check that the version of Vapor used in the tutorial is Vapor 3).
 <br/><br/>
 
+## Code Samples
+You can find them [here](https://github.com/gmazzei/VaporTutorial/blob/master/Samples.md).
+<br/><br/>
+
 ## Other tutorials
 * [Deploying to Heroku](https://www.twilio.com/blog/2016/11/how-to-deploy-vapor-apps-to-heroku.html)
 <br/><br/>
